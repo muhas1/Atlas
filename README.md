@@ -1,20 +1,30 @@
+<h1 align="center">🗺️ Atlas</h1>
+
 <p align="center">
-  <img src="assets/Atlas.png" alt="Atlas Banner" width="100%">
+  <em>Your personal AI coding coach — private, powerful, and completely free.</em>
 </p>
 
-# 🗺️ Atlas
+<p align="center">
+  <img src="https://img.shields.io/badge/License-MIT-blue.svg" alt="License">
+  <img src="https://img.shields.io/badge/Python-3.8+-green.svg" alt="Python">
+  <img src="https://img.shields.io/badge/Status-Active-success.svg" alt="Status">
+</p>
 
-> Your personal AI coding coach — private, powerful, and completely free.
-
+<p align="center">
 Atlas is an open-source, AI-powered coding tutor that transforms how students learn to code. Unlike traditional platforms that leave you stuck or AI tools that hand you answers, Atlas guides you through problems step-by-step, helping you truly understand the concepts while you build real skills.
+</p>
 
+<p align="center">
 Built on local LLMs with voice interaction and intelligent progress tracking, Atlas is like having an expert mentor available 24/7 — with zero API costs and complete privacy.
+</p>
 
 ---
 
-## 🎯 The Problem
+<h2 align="center">🎯 The Problem</h2>
 
+<p align="center">
 Learning to code is hard. Students practicing on platforms like LeetCode face a common dilemma:
+</p>
 
 - **Get stuck?** Traditional platforms offer hints or nothing at all
 - **Use ChatGPT?** It gives you the full solution (learning: zero)
@@ -25,9 +35,11 @@ Learning to code is hard. Students practicing on platforms like LeetCode face a 
 
 ---
 
-## ✨ The Solution
+<h2 align="center">✨ The Solution</h2>
 
+<p align="center">
 Atlas bridges the gap between passive learning and instant answers. It's an AI mentor that:
+</p>
 
 ### 🧠 **Teaches, Doesn't Tell**
 Guides you through problems using the Socratic method — asking questions, providing hints, and helping you discover solutions yourself.
@@ -49,7 +61,7 @@ One-time setup, unlimited learning. No subscriptions, no token limits, no surpri
 
 ---
 
-## 🚀 Key Features
+<h2 align="center">🚀 Key Features</h2>
 
 - **Interactive Problem Solving** — Step-by-step guidance through coding challenges
 - **Voice-Enabled Tutoring** — Natural conversation with your AI mentor
@@ -101,4 +113,3 @@ One-time setup, unlimited learning. No subscriptions, no token limits, no surpri
 - **Progress Database** — SQLite-based learning analytics
 - **Cross-Platform** — Runs on Windows, macOS, and Linux
 
----
