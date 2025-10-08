@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="assets/Atlas.png" alt="Atlas Banner" width="1920">
+</p>
+
 <h1 align="center">🗺️ Atlas</h1>
 
 <p align="center">
