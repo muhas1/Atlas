@@ -1,5 +1,6 @@
-
-![Atlas Banner](assets/Atlas.png)
+<p align="center">
+  <img src="assets/Atlas.png" alt="Atlas Banner" width="100%">
+</p>
 
 # 🗺️ Atlas
 
