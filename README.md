@@ -1,3 +1,6 @@
+
+![Atlas Banner](assets/atlas.png)
+
 # 🗺️ Atlas
 
 > Your personal AI coding coach — private, powerful, and completely free.
