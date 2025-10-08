@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/Atlas.png" alt="Atlas Banner" width="1920">
+  <img src="assets/Atlas.png" alt="Atlas Banner" style="max-width: 100%; height: auto;">
 </p>
 
 <h1 align="center">🗺️ Atlas</h1>
