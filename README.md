@@ -1,5 +1,5 @@
 
-![Atlas Banner](assets/atlas.png)
+![Atlas Banner](assets/Atlas.png)
 
 # 🗺️ Atlas
 
